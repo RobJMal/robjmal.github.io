@@ -23,7 +23,7 @@ repository               : "robjmal/robjmal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-harvard-2021.jpg"
   name             : "Robert Jomar Malate"
   pronouns         : # example: "she/her"  
   bio              : "Robotics Engineer, Researcher, & Educator"
