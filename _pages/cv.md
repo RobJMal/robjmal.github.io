@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Robotics, Systems and Control, ETH Zurich, 2026 (expected)
+* B.S. in Mechanical Engineering, Harvard University, 2021 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **mimic robotics** [Mar 2025 - Present]
+  * *Student Reearcher* [Nov. 2025 - Present]
+    * Duties includes: Updates and improvements to template
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * *Robotics Engineer Intern* [Mar 2025 - Sept 2025]
+    * Duties included: Merging pull requests
+  
+* **UBTECH Robotics** [Jun 2021 - May 2023]
+  * *Mechatronics Engineer* [Jun 2021 - May 2023]
+    * Duties includes: Updates and improvements to template
   
 Skills
 ======
